@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification_title">my_notification</string>
+    <string name="notification_message">push my tralala</string>
+    <string name="ticker_text">123</string>
+</resources>
